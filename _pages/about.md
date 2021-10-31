@@ -10,7 +10,7 @@ redirect_from:
 
 
 ## MNIST Data Analysis with Machine Learning 
-
+=======
 Brief Exaplanation<br/><br/>
 <img src='/images/500x300.png'>
 
@@ -18,6 +18,6 @@ Brief Exaplanation<br/><br/>
 
 ## Iris Dataset Analysis
 
-Brief Explanation
+### Brief Explanation
 
 
