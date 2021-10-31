@@ -10,8 +10,13 @@ redirect_from:
 
 ## MNIST Data Analysis with Machine Learning 
 
-Brief Exaplanation<br/><br/>
-[![Graph Snapshot]'/images/Model_Accuracy_vs_Top_K_Ranked_Features.png'](https://github.com/WK-EE/MNIST-DataAnalysis-ML "Redirect to directory")
+<p>
+  <a href="https://github.com/WK-EE/MNIST-DataAnalysis-ML" title="WK-EE MNIST Dataset Analysis">
+    <img src="/images/Model_Accuracy_vs_Top_K_Ranked_Features.png" alt="Graph Snapshot" />
+  </a>
+</p>
+
+
 
 
 ## Iris Dataset Analysis
