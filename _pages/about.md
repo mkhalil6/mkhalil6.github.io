@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 ***
-
 ## MNIST Dataset Analysis with Machine Learning 
 
 Brief Explanation
