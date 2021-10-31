@@ -12,7 +12,7 @@ redirect_from:
 
 <p>
   <a href= "https://github.com/WK-EE/MNIST-DataAnalysis-ML" title="WK-EE MNIST Dataset Analysis">
-    <img src= '/images/Model_Accuracy_vs_Top_K_Ranked_Features.png' alt= "Results Snapshot" style = "width: 500px; height: 400px; border: #000000 4px solid" />
+    <img src= '/images/Model_Accuracy_vs_Top_K_Ranked_Features.png' alt= "Results Snapshot" style = "width: 500px; height: 400px; border: #808080 4px solid" />
   </a>
 </p>
 
