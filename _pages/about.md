@@ -1,12 +1,5 @@
----
-permalink: /
-title: "Projects"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+# Projects
+
 ## MNIST Data Analysis with Machine Learning 
 
 Brief Explanation
