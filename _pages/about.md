@@ -1,3 +1,4 @@
+# Projects
 ---
 permalink: /
 title: "Projects"
@@ -12,11 +13,6 @@ redirect_from:
 
 Brief Explanation
 
-<p>
-  <a href="https://github.com/WK-EE/MNIST-DataAnalysis-ML" title="WK-EE MNIST Dataset Analysis">
-    <img src="/images/Model_Accuracy_vs_Top_K_Ranked_Features.png" alt="Graph Snapshot" />
-  </a>
-</p>
 
 
 
@@ -25,10 +21,5 @@ Brief Explanation
 
 Brief Explanation
 
-<p>
-  <a href="https://github.com/WK-EE/Iris-Dataset-Analysis" title="WK-EE Iris Dataset Analysis">
-    <img src="/images/500x300.png" alt="Graph Snapshot" />
-  </a>
-</p>
 
 
