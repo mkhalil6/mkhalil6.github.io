@@ -1,5 +1,3 @@
-# Projects
-
 ---
 permalink: /
 title: "Projects"
