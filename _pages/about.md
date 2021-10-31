@@ -9,16 +9,15 @@ redirect_from:
 ---
 ***
 ## MNIST Dataset Analysis with Machine Learning 
+1
 <p>
   <a href= "https://github.com/WK-EE/MNIST-DataAnalysis-ML" title="WK-EE MNIST Dataset Analysis">
     <img src= '/images/Model_Accuracy_vs_Top_K_Ranked_Features.png' alt= "Results Snapshot" 
          style= "width: 500px; 
               height: 400px; 
               border: #808080 4px solid
-              box-shadow: 10px 10px 5px #ccc;
-              -moz-box-shadow: 10px 10px 5px #ccc;
-              -webkit-box-shadow: 10px 10px 5px #ccc;
-              -khtml-box-shadow: 10px 10px 5px #ccc;"
+              a.hover{
+                 border-color: purple;"
     />
   </a>
 </p>
