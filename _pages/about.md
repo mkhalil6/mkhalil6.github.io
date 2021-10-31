@@ -1,6 +1,6 @@
 # Projects
 
-## MNIST Data Analysis with Machine Learning 
+## MNIST Data Analysis with Machine Learning(https://github.com/WK-EE/MNIST-DataAnalysis-ML)
 
 Brief Explanation
 
@@ -13,7 +13,7 @@ Brief Explanation
 
 
 
-## Iris Dataset Analysis
+## Iris Dataset Analysis(https://github.com/WK-EE/Iris-Dataset-Analysis)
 
 Brief Explanation
 
