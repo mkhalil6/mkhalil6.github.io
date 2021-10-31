@@ -8,9 +8,8 @@ redirect_from:
   - /about.html
 ---
 ***
-## MNIST Dataset Analysis with Machine Learning 
 1
-<h2 style="color: #a0c3d5"> MNIST Dataset Analysis with Machine Learning </h2>
+<h2 style="color:#6ca0bb"> MNIST Dataset Analysis with Machine Learning </h2>
 
 <p>
   <a href= "https://github.com/WK-EE/MNIST-DataAnalysis-ML" title="WK-EE MNIST Dataset Analysis">
@@ -24,9 +23,7 @@ redirect_from:
 
 
 
-
-## Iris Dataset Analysis
-
+<h2 style="color:#6ca0bb"> Iris Dataset Analysis </h2>
 <p>
   <a href= "https://github.com/WK-EE/Iris-Dataset-Analysis" title="WK-EE Iris Dataset Analysis">
     <img src= '/images/500x300.png' alt= "Results Snapshot"
