@@ -1,6 +1,6 @@
 # Projects
 
-<h2> <a href="https://github.com/WK-EE/MNIST-DataAnalysis-ML" title="Redirect to homepage"> MNIST Data Analysis with Machine Learning </a> </h2> 
+
 
 Brief Explanation
 
