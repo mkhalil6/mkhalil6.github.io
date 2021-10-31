@@ -31,5 +31,3 @@ redirect_from:
 </p>
 
 
-
-#6ca0bb
