@@ -26,7 +26,7 @@ Brief Explanation
 Brief Explanation
 <p>
   <a href= "https://github.com/WK-EE/Iris-Dataset-Analysis" title="WK-EE Iris Dataset Analysis">
-    <img src= /images/500x300.png alt= "Results Snapshot"/>
+    <img src= '/images/500x300.png' alt= "Results Snapshot"/>
   </a>
 </p>
 
