@@ -9,14 +9,14 @@ redirect_from:
 ---
 
 
-MNIST Data Analysis with Machine Learning 
+## MNIST Data Analysis with Machine Learning 
 ======
 Brief Exaplanation
 <br/><img src='/images/500x300.png'>
 
 
 
-Iris Dataset Analysis
+## Iris Dataset Analysis
 ======
 Brief Explanation
 
