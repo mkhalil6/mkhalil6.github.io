@@ -25,7 +25,7 @@ redirect_from:
 <h2 style="color:#4b819d"> Iris Dataset Analysis </h2>
 <p>
   <a href= "https://github.com/WK-EE/Iris-Dataset-Analysis" title="WK-EE Iris Dataset Analysis">
-    <img src= '/images/500x300.png' alt= "Results Snapshot"
+    <img src= '/images/iris_dataset_analysis.png' alt= "Results Snapshot"
          style = "width: 500px; height: 400px; border: #808080 4px solid"/>
   </a>
 </p>
