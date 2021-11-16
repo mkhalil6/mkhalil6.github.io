@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 ***
-<h2 style="color:#4b819d"> MNIST Dataset Analysis with Machine Learning </h2>
+<h2 style="color:#4b819d"> Amazing Mart European Sales 2011-2014 Dashboard </h2>
 
 <p>
   <a href= "https://public.tableau.com/app/profile/waelk/viz/AmazingMartEuropeanSales2011-2014Dashboard/AmazingMartEuropeanSalesDashboard" title="WK-EE Amazing Mart European Sales 2011-2014 Dashboard">
