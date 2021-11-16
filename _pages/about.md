@@ -11,6 +11,35 @@ redirect_from:
 <h2 style="color:#4b819d"> MNIST Dataset Analysis with Machine Learning </h2>
 
 <p>
+  <a href= "https://public.tableau.com/app/profile/waelk/viz/AmazingMartEuropeanSales2011-2014Dashboard/AmazingMartEuropeanSalesDashboard" title="WK-EE Amazing Mart European Sales 2011-2014 Dashboard">
+    <img src= '/images/amazingmart_tableau.png' alt= "Results Snapshot" 
+         style= "width: 500px; 
+              height: 400px; 
+              border: #808080 4px solid;"
+    />
+  </a>
+</p>
+
+
+
+
+<h2 style="color:#4b819d"> MNIST Dataset Analysis with Machine Learning </h2>
+
+<p>
+  <a href= "https://github.com/WK-EE/MNIST-DataAnalysis-ML" title="WK-EE MNIST Dataset Analysis">
+    <img src= '/images/Model_Accuracy_vs_Top_K_Ranked_Features.png' alt= "Results Snapshot" 
+         style= "width: 500px; 
+              height: 400px; 
+              border: #808080 4px solid;"
+    />
+  </a>
+</p>
+
+
+
+<h2 style="color:#4b819d"> MNIST Dataset Analysis with Machine Learning </h2>
+
+<p>
   <a href= "https://github.com/WK-EE/MNIST-DataAnalysis-ML" title="WK-EE MNIST Dataset Analysis">
     <img src= '/images/Model_Accuracy_vs_Top_K_Ranked_Features.png' alt= "Results Snapshot" 
          style= "width: 500px; 
