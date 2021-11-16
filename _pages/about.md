@@ -36,7 +36,7 @@ redirect_from:
 
 
 
-<h2 style="color:#4b819d"> Individual Sellers' Revenues Map - E-commerce Store in Brazil </h2>
+<h2 style="color:#4b819d"> Individual Sellers' Revenues Map - E-commerce Store in Brazil Dashboard </h2>
 
 <p>
   <a href= "https://public.tableau.com/app/profile/waelk/viz/IndividualSellersRevenuesMap-E-commerceStoreinBrazil/Sheet1" title="WK-EE Individual Sellers' Revenues Map - E-commerce Store in Brazil">
