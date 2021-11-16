@@ -22,12 +22,25 @@ redirect_from:
 
 
 
-
-<h2 style="color:#4b819d"> MNIST Dataset Analysis with Machine Learning </h2>
+<h2 style="color:#4b819d"> UK Bank Customer Segmentation Dashboard </h2>
 
 <p>
-  <a href= "https://github.com/WK-EE/MNIST-DataAnalysis-ML" title="WK-EE MNIST Dataset Analysis">
-    <img src= '/images/Model_Accuracy_vs_Top_K_Ranked_Features.png' alt= "Results Snapshot" 
+  <a href= "https://public.tableau.com/app/profile/waelk/viz/UKBankCustomerSegmentation_16356573512100/Story1" title="WK-EE UK Bank Customer Segmentation">
+    <img src= '/images/UK Bank Customer Segmentation Dashboard.png' alt= "Results Snapshot" 
+         style= "width: 500px; 
+              height: 400px; 
+              border: #808080 4px solid;"
+    />
+  </a>
+</p>
+
+
+
+<h2 style="color:#4b819d"> Individual Sellers' Revenues Map - E-commerce Store in Brazil </h2>
+
+<p>
+  <a href= "https://public.tableau.com/app/profile/waelk/viz/IndividualSellersRevenuesMap-E-commerceStoreinBrazil/Sheet1" title="WK-EE Individual Sellers' Revenues Map - E-commerce Store in Brazil">
+    <img src= '/images/Brazil_ecommerce_map.png' alt= "Results Snapshot" 
          style= "width: 500px; 
               height: 400px; 
               border: #808080 4px solid;"
